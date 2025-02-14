@@ -1,3 +1,0 @@
-Name: yhj
-Age: 90
-Favorite Programming Language: gg
